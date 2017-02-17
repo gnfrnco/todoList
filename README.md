@@ -1,9 +1,6 @@
-# Todo List
+# Todo List v2
 A simple to-do list.
 
 https://gnfrnco.github.io/todoList/
 
-![todo list screenshot](http://i.imgur.com/6Lxtqr9.png)
-
-Once I figure out localStorage, I'll update this again.
-
+![todo list screenshot](http://i.imgur.com/IR3sxnm.png)
